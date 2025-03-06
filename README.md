@@ -1,6 +1,6 @@
 
 ![Logo](imagens/BLUE_HORIZON.png)
-## Projeto Final da Disciplina de Aprendizagem de Máquina
+## Explicação do projeto
 
 Dada a importância da água para a vida humana, este estudo foi desenvolvido com base em dados disponibilizados por órgãos governamentais e fontes como o IBGE, a ANA (Agência Nacional de Águas e Saneamento Básico) e o World Bank Group. Utilizando técnicas de Inteligência Artificial, o projeto visa prever o consumo de água no Brasil e no mundo nos próximos anos, levando em consideração ações humanas, condições ambientais, crescimento industrial, entre outros fatores. O objetivo principal é entender como determinados processos afetam o consumo de água e, a partir disso, propor medidas para minimizar o uso desse recurso finito, a água potável.
 
